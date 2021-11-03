@@ -1,4 +1,4 @@
-# NBA Results x Telegram Channel
+# NBA API x Telegram Channel
 
 This is a simple application to get NBA data from a NBA API (by RapidApi) to send to a Telegram channel through Telegram API.
 
