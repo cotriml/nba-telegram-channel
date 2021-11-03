@@ -7,7 +7,7 @@ This is a simple application to get NBA data from a NBA API (by RapidApi) to sen
 
 > ## Features
 
-Results ✅ (1.0)\
+Results ✅\
 Next Games ❌\
 Standings by Conference ❌
 
